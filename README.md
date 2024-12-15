@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/vectorete/honeynet-vs-deception_technologies">
+  <a href="https://github.com/victorkvor/honeynet-vs-deception_technologies">
     <img src="images/logo.png" alt="Logo" width="35%">
   </a>
   <h3 align="center">Honeynet comparative against Deception Technology</h3>
@@ -19,14 +19,14 @@
   <p align="center">
     This project aims to set-up a Honeynet, analyse the segreggated data by each honeypot, in order to seek a general attack pattern, describing the limitations and features provided in comparison to a deception technology.
     <br />
-    <a href="https://github.com/vectorete/honeynet-vs-deception_technologies"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/victorkvor/honeynet-vs-deception_technologies"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/vectorete/honeynet-vs-deception_technologies">View Demo</a>
+    <a href="https://github.com/victorkvor/honeynet-vs-deception_technologies">View Demo</a>
     ·
-    <a href="https://github.com/vectorete/honeynet-vs-deception_technologies/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/victorkvor/honeynet-vs-deception_technologies/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/vectorete/honeynet-vs-deception_technologies/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/victorkvor/honeynet-vs-deception_technologies/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -93,7 +93,7 @@
 <!-- ABOUT THE PROJECT -->
 ## 🔎 About The Project <a id="about-the-project"></a>
 <div align="center">
-  <a href="https://github.com/vectorete/honeynet-vs-deception_technologies">
+  <a href="https://github.com/victorkvor/honeynet-vs-deception_technologies">
     <img src="images/project.png" alt="Logo" width="30%">
   </a>
 </div>
@@ -130,7 +130,7 @@ Side-by-side comparison of both technologies, showcasing their advantages and di
 
 ### 🖧 T-POT Topology - Host Environment <a id="topology"></a>
 <div align="center">
-  <a href="https://github.com/vectorete/honeynet-vs-deception_technologies">
+  <a href="https://github.com/victorkvor/honeynet-vs-deception_technologies">
     <img src="images/tpot-topology.png" alt="Logo" width="80%">
   </a>
 </div>
@@ -284,7 +284,7 @@ The main Honeynet open-source project is [T-POT](https://github.com/telekom-secu
 #### 🔴 Live Attack Map<a id="live"></a>
 The attacks targeting our honeynet are shown in real time on this video, along with the origin of each attack on a worldwide map to visually represent the global distribution of threats.
 
-[![Demo](https://img.youtube.com/vi/UbHiqY72H9I/0.jpg)](https://youtu.be/UbHiqY72H9I)
+![Demo](images/tpot-preview.gif)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -511,21 +511,21 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## ☎️ Contact <a id="contact"></a>
 Victor Kravchuk Vorkevych - victorkravchuk19@gmail.com
 
-Project Link: [https://github.com/vectorete/honeynet-vs-deception_technologies](https://github.com/vectorete/honeynet-vs-deception_technologies)
+Project Link: [https://github.com/victorkvor/honeynet-vs-deception_technologies](https://github.com/victorkvor/honeynet-vs-deception_technologies)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/vectorete/honeynet-vs-deception_technologies.svg?style=for-the-badge
-[contributors-url]: https://github.com/vectorete/honeynet-vs-deception_technologies/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/vectorete/honeynet-vs-deception_technologies.svg?style=for-the-badge
-[forks-url]: https://github.com/vectorete/honeynet-vs-deception_technologies/network/members
-[stars-shield]: https://img.shields.io/github/stars/vectorete/honeynet-vs-deception_technologies.svg?style=for-the-badge
-[stars-url]: https://github.com/vectorete/honeynet-vs-deception_technologies/stargazers
-[issues-shield]: https://img.shields.io/github/issues/vectorete/honeynet-vs-deception_technologies.svg?style=for-the-badge
-[issues-url]: https://github.com/vectorete/honeynet-vs-deception_technologies/issues
-[license-shield]: https://img.shields.io/github/license/vectorete/honeynet-vs-deception_technologies.svg?style=for-the-badge
-[license-url]: https://github.com/vectorete/honeynet-vs-deception_technologies/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/victorkvor/honeynet-vs-deception_technologies.svg?style=for-the-badge
+[contributors-url]: https://github.com/victorkvor/honeynet-vs-deception_technologies/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/victorkvor/honeynet-vs-deception_technologies.svg?style=for-the-badge
+[forks-url]: https://github.com/victorkvor/honeynet-vs-deception_technologies/network/members
+[stars-shield]: https://img.shields.io/github/stars/victorkvor/honeynet-vs-deception_technologies.svg?style=for-the-badge
+[stars-url]: https://github.com/victorkvor/honeynet-vs-deception_technologies/stargazers
+[issues-shield]: https://img.shields.io/github/issues/victorkvor/honeynet-vs-deception_technologies.svg?style=for-the-badge
+[issues-url]: https://github.com/victorkvor/honeynet-vs-deception_technologies/issues
+[license-shield]: https://img.shields.io/github/license/victorkvor/honeynet-vs-deception_technologies.svg?style=for-the-badge
+[license-url]: https://github.com/victorkvor/honeynet-vs-deception_technologies/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/victorkvor/
